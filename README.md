@@ -7,7 +7,7 @@ As part of the Data Analytics Course, SQL was utilized to work on a project for 
 ## Background
 In response to increasing competition from streaming services such as Netflix and Amazon Prime, Rockbuster Stealth LLC intends to leverage their existing movie licenses to launch an online video rental service in order to remain competitive.
 
-##Key Questions and Objectives
+## Key Questions and Objectives
 The Rockbuster Stealth Management Board has posed a series of business questions and is seeking data-driven answers to inform their 2020 company strategy. These questions include:
 
 Which movies have contributed the most/least to revenue gain?
